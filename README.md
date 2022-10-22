@@ -12,3 +12,6 @@ I'm a full stack developer... mainly focused on mobile and web app development w
 ## 🛠 Skills
 Flutter, Dart, Javascript, HTML, CSS...
 
+## Counters
+![](https://hit.yhype.me/github/profile?user_id=23411452)
+
